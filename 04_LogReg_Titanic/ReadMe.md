@@ -162,7 +162,4 @@ Computed with `classification_report(y_test, y_pred)`:
 - **Deployment:** Build a simple Streamlit/Flask app and persist the trained model with `joblib` for demo and interaction.  
 - **Experiment tracking:** Use MLflow or W&B to log runs and parameters.
 
----
-
-## Reproducibility & Code Snippets
 
