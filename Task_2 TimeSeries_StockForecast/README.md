@@ -117,4 +117,5 @@ This analysis was performed using **VS Code**, leveraging libraries such as **pa
 ---
 
 ## Link
-- GitHub Repository: [Insert Your Repo Link Here](#)
+
+- GitHub Repository: [[Github Repo Link](https://github.com/ritchiee1/CODING-SAMURAI-INTERNSHIP-TASK-Data-Science-Projects/tree/main/Task_2%20TimeSeries_StockForecast)](#)
